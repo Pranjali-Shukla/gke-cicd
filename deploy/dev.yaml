@@ -6,5 +6,5 @@ metadata:
   labels: {}
 description: dev
 gke:
-  cluster: https://console.cloud.google.com/kubernetes/clusters/details/us-central1-c/cluster-1/details?hl=en&project=project-dev-432815
+  cluster: https://console.cloud.google.com/kubernetes/clusters/details/us-central1-c/cluster-1/details?hl=en&project=project-dev
 
